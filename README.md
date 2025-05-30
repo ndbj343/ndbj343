@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#FFA500; font-weight:bold; font-size:28px;">🚀 Hey there! I'm <span style="color:#00BFFF; font-family:'Bookman Old Style', serif;">Naurrr</span>, a Student Developer from Philippines, exploring the world of automation and testing! 👨‍💻</h2>
+<h2 align="center" style="color:#FFA500; font-weight:bold; font-size:28px;">🚀 Hey there! I'm <span style="color:#00BFFF; font-family:'Bookman Old Style', serif;">Naurrr</span>, a BSIT graduate from Philippines, exploring the world of automation and testing! 👨‍💻</h2>
 
 
 ###
